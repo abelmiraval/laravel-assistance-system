@@ -16,7 +16,7 @@
 
 ## Reporte de asistencia
 
-![alt text]https://github.com/AbelSaul/Sistema-de-asistencia/blob/master/MODULOS%20SIS%20ASISTENCIA/Reporte%20de%20asistencia.png)
+![alt text](https://github.com/AbelSaul/Sistema-de-asistencia/blob/master/MODULOS%20SIS%20ASISTENCIA/Reporte%20de%20asistencia.png)
 
 ## Detalle reporte de asistencia
 
