@@ -6,7 +6,7 @@
 
 ![alt text](https://github.com/AbelSaul/Sistema-de-asistencia/blob/master/MODULOS%20SIS%20ASISTENCIA/Empleados.png)
 
-## Horaios
+## Horarios
 
 ![alt text](https://github.com/AbelSaul/Sistema-de-asistencia/blob/master/MODULOS%20SIS%20ASISTENCIA/Horarios.png)
 
